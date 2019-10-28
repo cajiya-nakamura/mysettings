@@ -1,0 +1,29 @@
+syntax enable
+set background=dark
+set title
+set ambiwidth=double
+set tabstop=2
+set expandtab
+set shiftwidth=2
+"set list
+"set listchars=tab:»-,trail:-,eol:↲,extends:»,precedes:«,nbsp:%
+set nrformats-=octal
+set hidden
+set history=50
+set virtualedit=block
+set whichwrap=b,s,[,],<,>
+set backspace=indent,eol,start
+set wildmenu
+set nobackup
+set noswapfile
+set autoread
+set hidden
+set showcmd
+set cursorline
+set cursorcolumn
+set visualbell
+set showmatch
+set laststatus=2
+set tabstop=2
+
+
